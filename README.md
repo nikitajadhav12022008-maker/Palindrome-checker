@@ -4,20 +4,20 @@ This mini project checks whether a given word or number reads the same forward a
 -------
 
 ##🚀 Features:
-Works for both words and numbers
-Ignores letter case (case-insensitive check)
-Instant result output
+-Works for both words and numbers
+-Ignores letter case (case-insensitive check)
+-Instant result output
 -----
 
 ##🛠 Technologies Used:
-Python 3
+-Python 3
 ------
 
 ##🧠 Concepts Used:
-Strings
-Slicing ([::-1])
-Conditional statements
-User input
+-Strings
+-Slicing ([::-1])
+-Conditional statements
+-User input
 ------
 
 ##▶️ How to Run
@@ -44,10 +44,10 @@ Not Palindrome
 --------
 
 ##🔮 Future Improvements:
-Ignore spaces in sentences
-Ignore punctuation marks
-Check full sentences (e.g., "Never odd or even")
-Convert into GUI application
+-Ignore spaces in sentences
+-Ignore punctuation marks
+-Check full sentences (e.g., "Never odd or even")
+-Convert into GUI application
 -------
 
 ##🙋‍♀️ Author:
