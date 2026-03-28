@@ -1,7 +1,9 @@
-##🔁 Palindrome Checker (Python):
+## 🔁 Palindrome Checker (Python):
+
 A simple command-line Palindrome Checker built using Python.
 This mini project checks whether a given word or number reads the same forward and backward.
--------
+
+---
 
 ##🚀 Features:
 -Works for both words and numbers
