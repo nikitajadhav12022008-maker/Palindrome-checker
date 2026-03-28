@@ -19,12 +19,14 @@ This mini project checks whether a given word or number reads the same forward a
   
 ---
 
-##🧠 Concepts Used:
--Strings
--Slicing ([::-1])
--Conditional statements
--User input
-------
+## 🧠 Concepts Used:
+
+- Strings
+- Slicing ([::-1])
+- Conditional statements
+- User input
+
+---
 
 ##▶️ How to Run
 Make sure Python is installed on your system
