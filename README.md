@@ -13,9 +13,11 @@ This mini project checks whether a given word or number reads the same forward a
 
 ---
 
-##🛠 Technologies Used:
--Python 3
-------
+## 🛠 Technologies Used:
+
+- Python 3
+  
+---
 
 ##🧠 Concepts Used:
 -Strings
