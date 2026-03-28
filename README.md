@@ -5,11 +5,13 @@ This mini project checks whether a given word or number reads the same forward a
 
 ---
 
-##🚀 Features:
--Works for both words and numbers
--Ignores letter case (case-insensitive check)
--Instant result output
------
+## 🚀 Features:
+
+- Works for both words and numbers
+- Ignores letter case (case-insensitive check)
+- Instant result output
+
+---
 
 ##🛠 Technologies Used:
 -Python 3
