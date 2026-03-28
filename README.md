@@ -28,20 +28,25 @@ This mini project checks whether a given word or number reads the same forward a
 
 ---
 
-##▶️ How to Run
-Make sure Python is installed on your system
-Clone the repository or download the file
-Run the program:
+## 📁Project structure:
+
+- palindrome checker/
+- |________palindrome_checker.py
+- |________README.md
+
+---
+
+## ▶️ How to Run:
+
+- Make sure Python is installed on your system
+- Clone the repository or download the file
+- Run the program:
 ```bash
 python palindrome_checker.py
-------
 
-##📁Project structure:
-palindrome checker/
-|
-|________palindrome_checker.py
-|________README.md
---------
+---
+
+
 
 ##📌 Sample Output:
 Enter word/number: madam
