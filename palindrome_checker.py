@@ -1,4 +1,4 @@
-#python based mini project the palindrome checker:
+# Python based mini project the palindrome checker:
 #input the word or a number
 s = input("enter word/number:").lower()
 #conditions
