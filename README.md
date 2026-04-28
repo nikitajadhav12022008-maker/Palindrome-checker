@@ -36,6 +36,16 @@ This mini project checks whether a given word or number reads the same forward a
 
 ---
 
+## 📌 Sample Output:
+
+Enter word/number: madam
+Palindrome
+OR
+Enter word/number: hello
+Not Palindrome
+
+---
+
 ## ▶️ How to Run:
 
 - Make sure Python is installed on your system
@@ -48,15 +58,7 @@ python palindrome_checker.py
 
 
 
-## 📌 Sample Output:
 
-Enter word/number: madam
-Palindrome
-OR
-Enter word/number: hello
-Not Palindrome
-
----
 
 ## 🔮 Future Improvements:
 
