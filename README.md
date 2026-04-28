@@ -46,19 +46,6 @@ Not Palindrome
 
 ---
 
-## ▶️ How to Run:
-
-- Make sure Python is installed on your system
-- Clone the repository or download the file
-- Run the program:
-```bash
-python palindrome_checker.py
-
----
-
-
-
-
 
 ## 🔮 Future Improvements:
 
@@ -66,6 +53,16 @@ python palindrome_checker.py
 - Ignore punctuation marks
 - Check full sentences (e.g., "Never odd or even")
 - Convert into GUI application
+
+---
+
+## ▶️ How to Run:
+
+- Make sure Python is installed on your system
+- Clone the repository or download the file
+- Run the program:
+```bash
+python palindrome_checker.py
 
 ---
 
